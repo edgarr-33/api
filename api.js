@@ -19,7 +19,7 @@ const juegos = [
 ];
 
 app.get('/',(req, res )=> {
-    res.send('Api microservicios conectada');
+    res.send('Prueba 1 CTM FROZY');
 })
 
 app.get('/api/juegos',(req,res)=>{
