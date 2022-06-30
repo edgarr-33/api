@@ -19,7 +19,7 @@ const juegos = [
 ];
 
 app.get('/',(req, res )=> {
-    res.send('Prueba definitiva, ahorazy CTM FROZY');
+    res.send('Cambio en el codigo');
 })
 
 app.get('/api/juegos',(req,res)=>{
